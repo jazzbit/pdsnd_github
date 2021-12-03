@@ -19,4 +19,5 @@ This link contains the dataset of 3 US cities bikeshare data that was used for t
 2)https://github.com/NidalShater/Udacity-My-Bike-share-Project
 3) https://github.com/udacity/pdsnd_github
 4) https://philipribbens.com/bike-share-data-analysis/
+5) Stack overflow also helped!!
 
