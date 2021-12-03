@@ -7,10 +7,12 @@
 UDACITY PDSND: EXPLORING US BIKESHARE DATA
 
 ### Description
-Using python codes to anaswer interesting questions about bikeshare trip data collected from 3 US cities(Washington, New York City and Chicago)
+Using python codes to anaswer interesting questions about bikeshare trip data collected from 3 US cities(Washington, New York City and Chicago). I made use of the numpy and panda packages for this project.
 
 ### Files used
+https://video.udacity-data.com/topher/2018/August/5b7b7aca_bikeshare-2/bikeshare-2.zip
 
+This link contains the dataset of 3 US cities bikeshare data that was used for this project
 
 ### Credits
 1)Udacity pdsnd syllabus
